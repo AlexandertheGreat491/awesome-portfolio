@@ -20,7 +20,7 @@ const userData = {
       {
         title: "Weather Dashboard",
         link: "https://alexanderthegreat491.github.io/furry-octo-succotash/",
-        imgUrl: "",
+        imgUrl: "/weather_dashboard.jpg",
       },
       {
         title: "",
