@@ -30,7 +30,7 @@ const userData = {
       {
         title: "PWA Text Editor",
         link: "https://nameless-dawn-90589.herokuapp.com/",
-        imgUrl: "",
+        imgUrl: "/pwa_text_editor.gif",
       },
       {
         title: "",
