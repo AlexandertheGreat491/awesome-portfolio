@@ -61,59 +61,11 @@ const userData = {
       currentProject2:"Woofs Up",
       currentProject2Url: "https://github.com/AlexandertheGreat491/Woofs_Up.git",
     },
-    experience: [
-      {
-        title: "Software Developer",
-        company: "mroads",
-        year: "2021",
-        companyLink: "https://mroads.com",
-        desc: "Contributed to our flagship product - Panna - which is an AI powered candidate interviewing product.",
-      },
-      {
-        title: "Founder and Developer",
-        company: "TailwindMasterKit",
-        year: "2021",
-        companyLink: "https://tailwindmasterkit.com",
-        desc: "Developed a marketplace for tailwind web components (React, HTML and Angular) and templates.",
-      },
-      {
-        title: "Founder and Developer",
-        company: "Algochurn",
-        year: "2021",
-        companyLink: "https://algochurn.com",
-        desc: "Your last moment revision friend right before a Tech coding interview. Practice problems and get hired at top Product based companies.",
-      },
-      {
-        title: "Internship",
-        company: "Intel Corporation",
-        year: "2019",
-        companyLink: "https://intel.com",
-        desc: "Developed pothole detection system with OpenCV and computer vision, detects potholes on roads and informs the driver.",
-      },
-      {
-        title: "Graduation",
-        company: "UPES, Dehradun.",
-        year: "2019",
-        companyLink: "https://upes.co.in",
-        desc: "Major in Computer Science and Engineering with a CGPA of 7.0. Nobody asks this but it's okay.",
-      },
-      {
-        title: "High School",
-        company: "Delhi Public School, Jaipur.",
-        year: "2015",
-        companyLink: "https://upes.co.in",
-        desc: "Subjects being PCM - I barely survived with 93.6% marks aggregate. Flex fridays, fellas.",
-      },
-    ],
     resumeUrl:
-      "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+      "https://docs.google.com/document/d/1etvUDRsoBCwz72JpIn_nh7EtZ4hVJ2y1/edit?usp=sharing&ouid=113671712819121366104&rtpof=true&sd=true",
     socialLinks: {
-      instagram: "https://instagram.com/maninthere",
-      twitter: "https://twitter.com/mannupaaji",
-      linkedin: "https://linkedin.com/in/manuarora28",
-      github: "https://github.com/manuarora700",
-      facebook: "https://facebook.com/",
-      peerlist: "https://peerlist.io/manuarora",
+      linkedin: "https://www.linkedin.com/in/alexander-vandyke",
+      github: "",
     },
   };
   
