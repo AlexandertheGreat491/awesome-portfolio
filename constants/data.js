@@ -33,7 +33,7 @@ const userData = {
         imgUrl: "/pwa_text_editor.gif",
       },
       {
-        title: "",
+        title: "What's Soap?",
         link: "",
         imgUrl: "",
       },
