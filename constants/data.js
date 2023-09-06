@@ -37,16 +37,16 @@ const userData = {
         link: "https://whats-soap.herokuapp.com/",
         imgUrl: "",
       },
-      {
-        title: "",
-        link: "",
-        imgUrl: "",
-      },
-      {
-        title: "",
-        link: "",
-        imgUrl: "",
-      },
+      //{
+        //title: "",
+        //link: "",
+        //imgUrl: "",
+      //},
+      //{
+        //title: "",
+        //link: "",
+        //imgUrl: "",
+      //},
     ],
     about: {
       title:
