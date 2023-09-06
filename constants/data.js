@@ -8,9 +8,9 @@ const userData = {
     address: "Edina, MN, United States of America",
     projects: [
       {
-        title: "Tailwind Master Kit",
-        link: "https://tailwindmasterkit.com",
-        imgUrl: "/tmk.jpg",
+        title: "Movie Nerds",
+        link: "https://alexanderthegreat491.github.io/solid-octo-funicular",
+        imgUrl: "",
       },
       {
         title: "PlaceholderTech",
