@@ -13,9 +13,9 @@ const userData = {
         imgUrl: "/nerds.png",
       },
       {
-        title: "PlaceholderTech",
-        link: "https://placeholdertech.in",
-        imgUrl: "/placeholdertech.png",
+        title: "Julia's Children",
+        link: "https://arcane-brushlands-08991.herokuapp.com/",
+        imgUrl: "",
       },
       {
         title: "Portfolio",
