@@ -25,7 +25,7 @@ const userData = {
       {
         title: "Book Search Engine",
         link: "https://desolate-atoll-15843.herokuapp.com/",
-        imgUrl: "",
+        imgUrl: "/google_books.jpg",
       },
       {
         title: "",
