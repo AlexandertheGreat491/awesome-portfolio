@@ -2,7 +2,7 @@ const userData = {
     githubUsername: "AlexandertheGreat491",
     name: "Alexander Van Dyke",
     designation: "Full-Stack Developer",
-    avatarUrl: "/avatar.png",
+    avatarUrl: "/profile_picture.JPG",
     email: "agvandyke25@gmail.com",
     phone: "+1 (612) 418-1169",
     address: "Edina, MN, United States of America",
