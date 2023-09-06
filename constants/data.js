@@ -1,11 +1,11 @@
 const userData = {
-    githubUsername: "manuarora700",
-    name: "Manu Arora",
+    githubUsername: "AlexandertheGreat491",
+    name: "Alexander Van Dyke",
     designation: "Full-Stack Developer",
     avatarUrl: "/avatar.png",
-    email: "manuarorawork@gmail.com",
-    phone: "+91 9587738861",
-    address: "Jaipur, Rajasthan, India.",
+    email: "agvandyke25@gmail.com",
+    phone: "+1 (612) 418-1169",
+    address: "Edina, MN, United States of America",
     projects: [
       {
         title: "Tailwind Master Kit",
