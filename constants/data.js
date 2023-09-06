@@ -65,7 +65,7 @@ const userData = {
       "https://docs.google.com/document/d/1etvUDRsoBCwz72JpIn_nh7EtZ4hVJ2y1/edit?usp=sharing&ouid=113671712819121366104&rtpof=true&sd=true",
     socialLinks: {
       linkedin: "https://www.linkedin.com/in/alexander-vandyke",
-      github: "",
+      github: "https://github.com/AlexandertheGreat491",
     },
   };
   
