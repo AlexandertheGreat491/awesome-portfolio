@@ -52,9 +52,10 @@ const userData = {
       title:
         "I'm a software developer that loves building products and web applications that impact millions of lives",
       description: [
-        `A dynamic professional with effective communication, problem-solving, 
+        `A newer full stack web developer with effective communication, problem-solving, 
         customer service, and technology skills, gained from prior professional, 
-        military and teaching experience, as well as experience in communicating complex concepts, managing deadlines, working independently, SQL, Microsoft Office, Google Suite and attention to detail.`
+        military and teaching experience, as well as experience in communicating complex concepts, 
+        managing deadlines, working independently, SQL, React, HTML, CSS, Bootstrap, Heroku, and Tailwind.`
       ],
       currentProject: "Travel North",
       currentProjectUrl: "https://github.com/AlexandertheGreat491/Travel-North.git",
