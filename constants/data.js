@@ -57,7 +57,9 @@ const userData = {
         military and teaching experience, as well as experience in communicating complex concepts, managing deadlines, working independently, SQL, Microsoft Office, Google Suite and attention to detail.`
       ],
       currentProject: "Travel North",
-      currentProjectUrl: "https://tailwindmasterkit.com",
+      currentProjectUrl: "https://github.com/AlexandertheGreat491/Travel-North.git",
+      currentProject2:"Woofs Up",
+      currentProject2Url: "https://github.com/AlexandertheGreat491/Woofs_Up.git",
     },
     experience: [
       {
