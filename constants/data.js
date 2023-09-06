@@ -28,8 +28,8 @@ const userData = {
         imgUrl: "/google_books.jpg",
       },
       {
-        title: "",
-        link: "",
+        title: "PWA Text Editor",
+        link: "https://nameless-dawn-90589.herokuapp.com/",
         imgUrl: "",
       },
       {
