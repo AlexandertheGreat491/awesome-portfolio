@@ -56,7 +56,7 @@ const userData = {
         customer service, and technology skills, gained from prior professional, 
         military and teaching experience, as well as experience in communicating complex concepts, managing deadlines, working independently, SQL, Microsoft Office, Google Suite and attention to detail.`
       ],
-      currentProject: "Tailwind Master Kit",
+      currentProject: "Travel North",
       currentProjectUrl: "https://tailwindmasterkit.com",
     },
     experience: [
