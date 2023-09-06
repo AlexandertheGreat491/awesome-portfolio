@@ -10,7 +10,7 @@ const userData = {
       {
         title: "Movie Nerds",
         link: "https://alexanderthegreat491.github.io/solid-octo-funicular",
-        imgUrl: "",
+        imgUrl: "/nerds.png",
       },
       {
         title: "PlaceholderTech",
