@@ -3,8 +3,14 @@ import styles from "../styles/Home.module.css";
 import ContainerBlock from "../components/ContainerBlock";
 import LatestCode from "../components/LatestCode";
 import Hero from "../components/Hero";
-//import getLatestRepos from "..getLatestRepos/lib/getLatestRepos";
-//import userData from "@constants/data";
+import getLatestRepos from "..getLatestRepos/lib/getLatestRepos";
+import userData from "@constants/data";
+import {Roboto} from '@next/font/google'
+
+const roboto = Roboto ({
+  subsets: ['latin'],
+  weight: '400',
+})
 
 export default function Home({ repositories }) {
     return (
