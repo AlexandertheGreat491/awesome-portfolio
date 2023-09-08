@@ -39,4 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 [How to Build a Portfolio Site with Next.js and TailwindCSS](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/)
 
+[manuarora700 simple-developer-portfolio website](https://github.com/manuarora700/simple-developer-portfolio-website)
+
 [Using fonts in Next.js(Google Fonts, Local Fonts, Tailwind CSS)](https://youtu.be/L8_98i_bMMA?si=Rq9Ycrtnnq9ZJs-M)
