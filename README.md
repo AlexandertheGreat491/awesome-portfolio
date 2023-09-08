@@ -35,4 +35,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Sources
 
+[Font Optimization](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts)
+
 [Using fonts in Next.js(Google Fonts, Local Fonts, Tailwind CSS)](https://youtu.be/L8_98i_bMMA?si=Rq9Ycrtnnq9ZJs-M)
