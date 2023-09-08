@@ -37,4 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 [Font Optimization](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts)
 
+[How to Build a Portfolio Site with Next.js and TailwindCSS](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/)
+
 [Using fonts in Next.js(Google Fonts, Local Fonts, Tailwind CSS)](https://youtu.be/L8_98i_bMMA?si=Rq9Ycrtnnq9ZJs-M)
