@@ -15,11 +15,11 @@ const roboto = Roboto ({
 export default function Home({ repositories }) {
     return (
       <ContainerBlock
-        title="Manu Arora - Developer, Writer, Creator"
+        title="Alex Van Dyke-Developer, Customer Service, Writer"
         description="This is a template built specifically for my blog - Creating a developer portfolio that gets you a job."
+        className={roboto.className}
       >
         <Hero />
-        <FavouriteProjects />
         <LatestCode repositories={repositories} />
       </ContainerBlock>
     );
